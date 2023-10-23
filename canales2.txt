@@ -37,10 +37,10 @@ http://192.168.100.116:8000/pid/8c71f0e0a5476e10950fc827f9d2a507340aba74/stream.
 http://192.168.100.116:8000/pid/2792a8a5f4a3f53cd72dec377a2639cd12a6973e/stream.mp4
 #EXTINF:-1 group-title="DAZN LaLiga" tvg-id="DAZN LaLiga HD" tvg-logo="https://i.ibb.co/d541mDr/DAZN-La-Liga.jpg" ,DAZN LaLiga 5 1080 MultiAudio  99e5
 http://192.168.100.116:8000/pid/99e544cddbee13798e854c1009ee7d1a93fdedf7/stream.mp4
-#EXTINF:-1 group-title="DAZN LaLiga" tvg-id="DAZN LaLiga HD" tvg-logo="https://i.ibb.co/d541mDr/DAZN-La-Liga.jpg" ,Dazn liga F 1  d6cd
+#EXTINF:-1 group-title="DAZN LaLiga" tvg-id="DAZN LaLiga HD" tvg-logo="https://i.ibb.co/d541mDr/DAZN-La-Liga.jpg" ,Dazn liga F 1  6002
+http://192.168.100.116:8000/pid/600222a4f98df80a2c0df2d60cb5ff3df9620710/stream.mp4
+#EXTINF:-1 group-title="DAZN LaLiga" tvg-id="DAZN LaLiga 2 HD" tvg-logo="https://i.ibb.co/d541mDr/DAZN-La-Liga.jpg" ,Dazn liga f 2  d6cd
 http://192.168.100.116:8000/pid/d6cdd724a97fcf851e7ef641c28d6beb8663496e/stream.mp4
-#EXTINF:-1 group-title="DAZN LaLiga" tvg-id="DAZN LaLiga 2 HD" tvg-logo="https://i.ibb.co/d541mDr/DAZN-La-Liga.jpg" ,Dazn liga f 2  4af5
-http://192.168.100.116:8000/pid/4af5952b95d3c2e99fcdc0de2f528d3fcd73e06b/stream.mp4
 #EXTINF:-1 group-title="DAZN LaLiga" tvg-id="DAZN LaLiga HD" tvg-logo="https://i.ibb.co/d541mDr/DAZN-La-Liga.jpg" ,Dazn liga f 3  1629
 http://192.168.100.116:8000/pid/162942adc047d0f78eac056effbe5bbec54a5e51/stream.mp4
 #EXTINF:-1 group-title="DAZN LaLiga" tvg-id="DAZN LaLiga HD" tvg-logo="https://i.ibb.co/d541mDr/DAZN-La-Liga.jpg" ,Dazn liga f 4  e454
@@ -69,8 +69,8 @@ http://192.168.100.116:8000/pid/5c21c181156f200d5e628ef2c62cd06bf5f97eb7/stream.
 http://192.168.100.116:8000/pid/a0978a100de9a307c12d395d9b2f4142db6ab52d/stream.mp4
 #EXTINF:-1 group-title="M+ Champions" tvg-id="M+ Liga de Campeones 7 HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-liga-de-campeones-7-1552.png" ,M.L. Campeones 7 1080  5932
 http://192.168.100.116:8000/pid/5932623d2fd7ed16b01787251b418e4f59a01cda/stream.mp4
-#EXTINF:-1 group-title="M+ Champions" tvg-id="M+ Liga de Campeones 8 HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-liga-de-campeones-8-1602.png" ,M.L. Campeones 8 1080  1a4b
-http://192.168.100.116:8000/pid/1a4b41c02e116ed19a505551a9caa79f54c027f7/stream.mp4
+#EXTINF:-1 group-title="M+ Champions" tvg-id="M+ Liga de Campeones 8 HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-liga-de-campeones-8-1602.png" ,M.L. Campeones 8 1080  6c44
+http://192.168.100.116:8000/pid/6c445141445b06d7b4328d80e2dd936bd0ca52ca/stream.mp4
 #EXTINF:-1 group-title="M+ Champions" tvg-id="M+ Liga de Campeones 9 HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-moviestar-liga-de-campeones-1459.png" ,M.L. Campeones 9 SD  7244
 http://192.168.100.116:8000/pid/7244379f8f6382d40afec871fb8e4219a803840b/stream.mp4
 #EXTINF:-1 group-title="M+ Champions" tvg-id="M+ Liga de Campeones 10 HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-moviestar-liga-de-campeones-1459.png" ,M.L. Campeones 10 SD  d42e
@@ -81,6 +81,8 @@ http://192.168.100.116:8000/pid/e737c681a92a4328703761c6ed9d8a951655f3e4/stream.
 http://192.168.100.116:8000/pid/33369549c635dabdb78b95c478c21fcc9e4ee854/stream.mp4
 #EXTINF:-1 group-title="M+ Champions" tvg-id="M+ Liga de Campeones 7 HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-liga-de-campeones-7-1552.png" ,M.L. Campeones 17 SD  6029
 http://192.168.100.116:8000/pid/60296c246e3596f334903fefd48cfaa724a5053b/stream.mp4
+#EXTINF:-1 group-title="DAZN F1" tvg-id="DAZN F1 HD" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/012018/untitled-1_20.png?An9Fa1zRO4z6Dj__EVR4da6YOWsvtEw2&itok=6PiLMTa5" ,DAZN F1 Multicamara (Fórmula 1)  9686
+http://192.168.100.116:8000/pid/968627d24eec1c16b51d88e4a4a6c02211e3346e/stream.mp4
 #EXTINF:-1 group-title="DAZN F1" tvg-id="DAZN F1 HD" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/012018/untitled-1_20.png?An9Fa1zRO4z6Dj__EVR4da6YOWsvtEw2&itok=6PiLMTa5" ,DAZN F1 UHD (Fórmula 1)  6b94
 http://192.168.100.116:8000/pid/6b94479c24898700089e6b87d28a3ccc72dc4041/stream.mp4
 #EXTINF:-1 group-title="DAZN F1" tvg-id="DAZN F1 HD" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/012018/untitled-1_20.png?An9Fa1zRO4z6Dj__EVR4da6YOWsvtEw2&itok=6PiLMTa5" ,DAZN F1 1080  5789
@@ -135,8 +137,8 @@ http://192.168.100.116:8000/pid/06b367c22394a1358c9cefa0cb5d0b64b9b2b3f4/stream.
 http://192.168.100.116:8000/pid/d81b4f2f3fde433539c097b2edc9b587ca47b087/stream.mp4
 #EXTINF:-1 group-title="M+ LaLiga Smartbank" tvg-id="LaLiga SmartbankTV M2 HD" tvg-logo="https://i.postimg.cc/9FL5V2WS/ligasmartbank2.png" ,LaLiga Smartbank 2 720  2709
 http://192.168.100.116:8000/pid/2709d0ab86cb6ce7ba4d3ad188d7fa80668f2924/stream.mp4
-#EXTINF:-1 group-title="M+ LaLiga Smartbank" tvg-id="LaLiga SmartbankTV M3 HD" tvg-logo="https://i.postimg.cc/4NfkryTV/ligasmartbank3.png" ,LaLiga Smartbank 3  59ba
-http://192.168.100.116:8000/pid/59ba45b79152e4599144177b234f6491fc19db53/stream.mp4
+#EXTINF:-1 group-title="M+ LaLiga Smartbank" tvg-id="LaLiga SmartbankTV M3 HD" tvg-logo="https://i.postimg.cc/4NfkryTV/ligasmartbank3.png" ,LaLiga Smartbank 3  b4a0
+http://192.168.100.116:8000/pid/b4a076c1f67a5c1f1ba899ac61b9401b1dc30f41/stream.mp4
 #EXTINF:-1 group-title="M+ LaLiga Smartbank" tvg-id="LaLiga SmartbankTV HD" tvg-logo="https://i.postimg.cc/CKxJXggY/ligasmartbank.png" ,LaLiga Smartbank 4  2cac
 http://192.168.100.116:8000/pid/2cacf21476b036e319bcb7c7e747766e6ccc082e/stream.mp4
 #EXTINF:-1 group-title="M+ LaLiga Smartbank" tvg-id="LaLiga SmartbankTV HD" tvg-logo="https://i.postimg.cc/CKxJXggY/ligasmartbank.png" ,LaLiga Smartbank 5  a114
