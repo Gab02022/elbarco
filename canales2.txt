@@ -117,6 +117,8 @@ http://192.168.100.116:8000/pid/858b3cf2842ebe394999275e5ebb0435f1af2ae4/stream.
 http://192.168.100.116:8000/pid/0742f7fabb74715b11c5a5dae24e93a4644697a5/stream.mp4
 #EXTINF:-1 group-title="M+ LaLiga BAR" tvg-id="M+ LALIGATV BAR" tvg-logo="https://i.ibb.co/ykCff9y/La-Liga-Bar.jpg" ,La Liga BAR 1080  aa82
 http://192.168.100.116:8000/pid/aa82e7d4f03061f2144a2f4be22f2e2210d42280/stream.mp4
+#EXTINF:-1 group-title="M+ LaLiga BAR" tvg-id="M+ LALIGATV BAR" tvg-logo="https://i.ibb.co/ykCff9y/La-Liga-Bar.jpg" ,BarÃ§a 720  e336
+http://192.168.100.116:8000/pid/e3362507e7c732b9461bd7bdc74bd054c49b3ba7/stream.mp4
 #EXTINF:-1 group-title="M+ LaLiga Smartbank" tvg-id="LaLiga SmartbankTV HD" tvg-logo="https://i.postimg.cc/CKxJXggY/ligasmartbank.png" ,LaLiga Smartbank 1080  4c46
 http://192.168.100.116:8000/pid/4c46585214b23b1d802ef2168060c7649a3894cf/stream.mp4
 #EXTINF:-1 group-title="M+ LaLiga Smartbank" tvg-id="LaLiga SmartbankTV HD" tvg-logo="https://i.postimg.cc/CKxJXggY/ligasmartbank.png" ,LaLiga Smartbank 720  06b3
@@ -199,6 +201,8 @@ http://192.168.100.116:8000/pid/e8eec35f4662be1af96963245bfa88fb7d0242c4/stream.
 http://192.168.100.116:8000/pid/5c267a00f264736c1d47c1cc3e754447ca8f770c/stream.mp4
 #EXTINF:-1 group-title="Otros" tvg-id="TELECINCO HD" tvg-logo="https://img.sport-tv-guide.live/images/stations/a907.png" ,Telecinco 1080  bb19
 http://192.168.100.116:8000/pid/bb1982ae8d2d409d4ccd7a9f498042684e3532b5/stream.mp4
+#EXTINF:-1 group-title="Otros" tvg-id="OTROS" tvg-logo="https://i.imgur.com/U4w7Bgy.png" ,â¢ PPVP 4  5c05
+http://192.168.100.116:8000/pid/5c05217f1813045f2af2fe4ec77eb27b7f7deb6e/stream.mp4
 #EXTINF:-1 group-title="Otros" tvg-id="Sport TV1 POR HD" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a450.png" ,Sport TV 1 1080  ce23
 http://192.168.100.116:8000/pid/ce235921dac95e1da2dd5e54673c2fecb9e806de/stream.mp4
 #EXTINF:-1 group-title="Otros" tvg-id="Sport TV2 POR HD" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a451.png" ,Sport TV 2 1080  396d
@@ -207,8 +211,6 @@ http://192.168.100.116:8000/pid/396d82ca6f5445abcd32e6b609d67e332ee12ace/stream.
 http://192.168.100.116:8000/pid/f8cb9d9e3077eb3ae417b2d95a69c5f590760eb9/stream.mp4
 #EXTINF:-1 group-title="Otros" tvg-id="I873.76943.schedulesdirect.org" tvg-logo="https://i.imgur.com/XcjYBfj.png" ,beIN SPORTS ñ  41af
 http://192.168.100.116:8000/pid/41af6926a6010b68ba2540975761436bb077748f/stream.mp4
-#EXTINF:-1 group-title="Otros" tvg-id="BARÇA TV" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-barca-tv-1456.png" ,Barça 720  e336
-http://192.168.100.116:8000/pid/e3362507e7c732b9461bd7bdc74bd054c49b3ba7/stream.mp4
 #EXTINF:-1 group-title="Otros" tvg-id="OTROS" tvg-logo="https://i.imgur.com/U4w7Bgy.png" ,PPVP 1  6002
 http://192.168.100.116:8000/pid/600222a4f98df80a2c0df2d60cb5ff3df9620710/stream.mp4
 #EXTINF:-1 group-title="Otros" tvg-id="OTROS" tvg-logo="https://i.imgur.com/U4w7Bgy.png" ,PPVP 3  1629
